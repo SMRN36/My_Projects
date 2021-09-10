@@ -39,4 +39,5 @@ Written a function to get  recommended movies
 **Convert to website :** We are using a streamlit library from python. First of all, to display the movies list into the search bar we are importing a pickle file. Here on this website we are selecting a movie name and displaying the top 5 similar movies. As I have used the TMDB dataset, by using TMDB api I can get the details of that particular movie by using id and display the similar movies as we have already written code for that. Here I am also fetching the posters of similar movies by using API. 
 
 **Deploy :** Deployment has been done on Heroku server. It is the cloud application platform.
+you can how my project look like -- (https://mrs-simran.herokuapp.com/)
 
