@@ -55,7 +55,7 @@ def SendEmail(to, content):
 
 
 if __name__ == "__main__":
-    speak("I am Jarvis sir, please tell me how can I help you")
+    speak("I am your assistant, please tell me how can I help you")
     while True:
         query = takeCommand().lower()
 
