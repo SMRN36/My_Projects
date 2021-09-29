@@ -12,7 +12,7 @@ Taken the following data,
 * Gross collection
 * Description
 
-First, I am taking the response from the web page. If 200 is the output code that means response is given successfully, that ensures the website allows the web scraping and we are good to go. The request module provides the HTML content as a string. 
+First, I am taking the response from the web page. If 200 is the output code that means response is given successfully, that ensures the website allows the web scraping and we are good to go. The requests module provides the HTML content as a string. 
 
 Then we are parsing the HTML content and giving a proper structure with the help of the BeautifulSoup module. Here we are extracting only the data which is required.
 
