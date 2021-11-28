@@ -24,6 +24,7 @@ In this dataset we have used Boston housing data from kaggle, this dataset conta
 * Correlation Matrix
 * Model Training
 * Hyperparameter Tuning for further estimation
+* Deploy
 
 **Data Preprocessing:** This step is done to check whether any null values are present or not.
 
@@ -60,6 +61,8 @@ CV score : 17.97
 Mean Squared Error : 8.43
 
 CV score : 11.39
+
+**Deploy:** Deployment has been done in Heroku Server. It is the cloud application platform. Have a look (https://analysis-hp.herokuapp.com/)
 
 
 
